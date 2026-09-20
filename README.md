@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Waffles3460
-- 👀 I’m interested in Games, Animations, Coding
-- 🌱 I’m currently learning Python and Sourcefilmmaker
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Sup... I am Aluty People calls me Kayra irl.
+I know the generation of C.
+A lifeless programmer.
 
 <!---
 Waffles3460/Waffles3460 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
